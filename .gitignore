@@ -50,3 +50,9 @@ htmlcov/
 
 # Docker
 *.pid
+
+# Built frontend static files (served by FastAPI)
+static/
+
+# SQLite databases
+*.db
